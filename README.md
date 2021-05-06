@@ -1,4 +1,4 @@
-# Terraform Provider Environment
+# Terraform Provider Environment [![release](https://github.com/EppO/terraform-provider-environment/actions/workflows/release.yml/badge.svg)](https://github.com/EppO/terraform-provider-environment/actions/workflows/release.yml)
 
 Terraform provider able to detect environment settings.
 Useful for debugging terraform running in CI.
