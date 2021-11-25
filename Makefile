@@ -3,7 +3,7 @@ HOSTNAME=hashicorp.com
 NAMESPACE=edu
 NAME=environment
 BINARY=terraform-provider-${NAME}
-VERSION=0.3
+VERSION=1.2.0
 OS_ARCH=darwin_amd64
 
 default: install
